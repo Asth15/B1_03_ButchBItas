@@ -71,3 +71,12 @@ body {
 p {
     font-size: small;
 }
+
+#datetime {
+    background-color: aliceblue;
+    border-radius: 20px;
+    position: fixed;
+    bottom: 80px;
+    right: 600px;
+    padding: 10px;
+}
